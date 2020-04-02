@@ -33,14 +33,14 @@
   "peerDependencies": {
     "react": "*",
     "react-native": "*",
-    "react-native-vector-icons": "^6.0.2"
+    "react-native-vector-icons": "*"
   },
   "dependencies": {
-    "color": "3.1.0",
-    "hoist-non-react-statics": "^2.5.5",
-    "lodash.merge": "^4.0.0",
-    "prop-types": "^15.5.10",
-    "react-native-material-design-styles": "^0.2.6"
+    "color": "3.1.2",
+    "hoist-non-react-statics": "3.3.2",
+    "lodash.merge": "4.6.2",
+    "prop-types": "15.7.2",
+    "react-native-material-design-styles": "0.2.7"
   },
   "devDependencies": {
     "babel-core": "^6.25.0",
